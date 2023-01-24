@@ -1,20 +1,10 @@
-<a href="https://ultimatecourses.com" target="_blank"><img src="https://ultimatecourses.com/static/banners/ultimate-angular-leader.svg"></a>
-
-# Angular Fundamentals Seed
-
-> This is the seed project for the [Angular Fundamentals](https://ultimatecourses.com/learn/angular-fundamentals) course by [Todd Motto](https://twitter.com/toddmotto).
+# Angular Fundamentals
 
 ## Project Setup and Tooling
 
 ### Tools
 
-This course is recorded with the following tools, you can optionally follow along using the same, or your favourite text editor/IDE and browser.
-
-*Text editor*: Visual Studio Code, you can [download it here](http://code.visualstudio.com) for both Mac, Windows and Linux.
-*Browser*: Google Chrome, you can [download it here](https://www.google.com/chrome)
-
 ### Prerequisites
-
 Please make sure that you have the following installed:
 
 * Install the _latest version_ of [Node.js](http://nodejs.org) (Mac or Windows)
